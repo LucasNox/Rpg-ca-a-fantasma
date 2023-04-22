@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d071fab78d7688d4",
+        "id": "bcc224937f50aaae",
         "type": "tabs",
         "children": [
           {
-            "id": "9854d7f1a410de2f",
+            "id": "b851cc8a613b3838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-26.md",
+                "file": "Cenas/Sessão 0/Introdução.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "450f5752713f0a64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cenas/Sessão 0/Casa de Paulo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "session",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-26.md",
+                "file": "Cenas/Sessão 0/Casa de Paulo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-26.md",
+                "file": "Cenas/Sessão 0/Casa de Paulo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-02-26.md"
+                "file": "Cenas/Sessão 0/Casa de Paulo.md"
               }
             }
           },
@@ -146,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,43 +176,45 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "9854d7f1a410de2f",
+  "active": "450f5752713f0a64",
   "lastOpenFiles": [
-    "README.md",
+    "Cenas/Sessão 0/Introdução.md",
+    "Cenas/Sessão 0/Casa de Paulo.md",
+    "Sessões/Sessão 0.md",
+    "Cenas/Sessão 0",
+    "Cenas/Sessão 0/Intro.md",
+    "Mundo/Jogadores/Guilherme Takeda.md",
+    "Mundo/Jogadores/Marcela.md",
+    "z_Templates/1_Story World Templates/Other/Template - Session Journal.md",
+    "Sessões",
+    "Mundo/NPCs/Jonathan Kravinsky.md",
+    "Mundo/Jogadores/Vini.md",
+    "z_Templates/3_Markdown/Insert Reference To Rollable Table.md",
+    "z_Templates/3_Markdown/Insert Timeline.md",
+    "z_Templates/3_Markdown/Insert Timeline Event.md",
+    "z_Templates/3_Markdown/Obsidian Markdown Formatting.md",
+    "z_Templates/3_Markdown/REGEX - Helpful Code.md",
+    "z_Templates/2_Mechanics Gallery/Mechanics Gallery.md",
+    "z_Templates/2_Mechanics Gallery/2_Mechanics Gallery.md",
+    "z_Templates/2_Mechanics Gallery/Other/Template - Mechanics Gallery.md",
+    "z_Templates/2_Mechanics Gallery/Other/Template - General Article.md",
+    "z_Templates/2_Mechanics Gallery/Gameplay/Template - General Gameplay Article.md",
+    "z_Templates/2_Mechanics Gallery/Gameplay/Template - Campaign Element.md",
+    "z_Templates/2_Mechanics Gallery/Mechanic Sources/Template - Mechanics Source.md",
+    "z_Templates/2_Mechanics Gallery/Game Mastering/Template - General Game Mastering Article.md",
+    "z_Templates/1_Story World Templates/Things/Template - Inhabitant.md",
+    "z_Templates/1_Story World Templates/Sources/Template - GM Synopsis.md",
+    "z_Templates/1_Story World Templates/Sources/Template - Story Source.md",
+    "z_Templates/1_Story World Templates/Sources/Template - Player Synopsis.md",
+    "Mundo/Jogadores",
+    "Mundo/NPCs",
+    "Mundo",
+    "z_Assets/Misc/ImagePlaceholder.png",
+    "z_Assets/Misc/MapPlaceholder.png",
+    "z_Assets/Misc",
     "footstep.mp3",
-    "Cenas/Introdução.md",
-    "Cenas/Intro.md",
-    "z_Templates/3_Markdown/Combat Templates/Insert Monster (TTRPG Statblock).md",
-    "z_Templates/3_Markdown/Combat Templates/Insert Random Encounter Table (Initiative Tracker).md",
-    "z_Templates/3_Markdown/Combat Templates/Insert Multiple Encounters Table (Initiative Tracker).md",
-    "z_Templates/3_Markdown/Combat Templates/Insert Multiple Encounters (Initiative Tracker) 1.md",
-    "z_Templates/3_Markdown/Combat Templates/Insert Monster Into Table (Initiative Tracker).md",
-    "z_Templates/3_Markdown/Combat Templates/Insert Customer Monster (TTRPG Statblock).md",
-    "z_Templates/3_Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
-    "z_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out Boxes (Admonition).md",
-    "z_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - Treasure.md",
-    "z_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - Trap.md",
-    "z_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - Read Aloud.md",
-    "z_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - Magic Item.md",
-    "z_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - GM Direction.md",
-    "z_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - Flavor.md",
-    "z_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - Call Out Box.md",
-    "z_Templates/3_Markdown/Insert Multiple Encounters (Initiative Tracker) 1.md",
-    "z_Templates/3_Markdown/Insert Monster (TTRPG Statblock).md",
-    "z_Templates/1_Story World Templates/Groups/Template - Group_ Religious.md",
-    "z_Templates/1_Story World Templates/Groups/Template - Group_ Other.md",
-    "z_Templates/1_Story World Templates/Groups/Template - Group_ Military.md",
-    "z_Templates/1_Story World Templates/Groups/Template - Group_ Government.md",
-    "z_Templates/1_Story World Templates/Groups/Template - Group_ Ethnic.md",
-    "z_Templates/1_Story World Templates/Groups/Template - Group_ Criminal.md",
     "z_Templates/3_Markdown/Insert Rollable Table",
     "z_Templates/3_Markdown/Combat Templates",
-    "z_Templates/3_Markdown/Call Out Boxes (Admonition)",
-    "z_Templates/3_Markdown",
-    "z_Templates/2_Mechanics Gallery/Other",
-    "z_Templates/2_Mechanics Gallery/Mechanic Sources",
-    "z_Templates/2_Mechanics Gallery/Gameplay",
-    "z_Templates/2_Mechanics Gallery/Game Mastering",
-    "z_Templates/2_Mechanics Gallery/Equipment"
+    "z_Templates/3_Markdown/Call Out Boxes (Admonition)"
   ]
 }

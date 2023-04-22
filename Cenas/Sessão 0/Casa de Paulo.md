@@ -16,7 +16,7 @@ RWtopicId: Topic_5
 ---
 # Template - Scene
 ## Overview
-**Scene Type**: `dice: 1d20`Conclusion, Description, Encounter, Exposition, Introduction, Other, Preparation, Revelation, Transition
+**Scene Type**: Conclusion, Description, Encounter, Exposition, Introduction, Other, Preparation, Revelation, Transition
 
 **Setting**: Extradimensional, Indoors, Interstellar, Nautical, Other, Outdoors, Underground, Urban, Wilderness
 
@@ -36,18 +36,15 @@ Placeholder
 Placeholder
 
 ## Participants
-Placeholder - Encounter Code
 
-Placeholder - Statblock Code
-
-### Placeholder Portrait
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Portrait]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
-
-Placeholder
+- [[Jonathan Kravinsky]]
+- [[Marcela]]
+- [[Guilherme Takeda]]
+- 
 
 ## Challenge
-Placeholder
+
+Target: 13
 
 ## Obstacles
 Placeholder
@@ -59,5 +56,9 @@ Placeholder
 Placeholder
 
 ## Additional Details
-Placeholder
+
+Diário de Paulo
+
+- "Bem... eu não sei muito o que escrever aqui. O Jonathan recomendou mas nunca fui um cara de escrever diário. Porém nesse tipo de trabalho.... digamos que podemos não ter um dos finais mais felizes possíveis."
+- "Hoje eu conheci uma pessoa muito adorável, Ana é seu nome. Era prima de um pobre rapaz que tirou sua vida e ela era sua única ponta de amor... consigo imaginar porquê"
 

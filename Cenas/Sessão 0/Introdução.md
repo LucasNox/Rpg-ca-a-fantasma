@@ -1,10 +1,11 @@
+
 Todos estão sentados em cadeiras de metal em um círculo dentro de longo um galpão. Está de noite. O local está iluminado apenas por uma lâmpada pendurada do teto. O ar está pesado, empoeirado, há um leve cheiro de mofo. Tem uma cadeira e mesa de metal abaixo da lâmpada, acima dela, um cinzeiro.
 
 Um homem vem andando de longe, da porta do galpão, seus passos ecoam pela grande área vazia até que ele chega na mesa e se senta na cadeira. O homem tem uma aparência cansada, cerca de 50 anos, porém anos não tão bondosos, cabelos grisalhos assim como sua barba a fazer. Ele usa um casaco verde desbotado e surrado. Ele traz consigo arquivos os quais ele joga à mesa. 
 
-Ele acende um cigarro, traga e expira a fumaça que se contorse à luz da lâmpada. Ele faz uma pausa de alguns segundos e então fala:
+Ele acende um cigarro, traga e expira a fumaça que se contorce à luz da lâmpada. Ele faz uma pausa de alguns segundos e então fala:
 
-"Sinto muito a todos vocês... se estão aqui significa que vocês sobreviveram um ataque de entidades sobrenaturais. E se haviam dúvidas antes, sim... essas coisas existem e permeam nossa sociedade."
+"Sinto muito a todos vocês... se estão aqui significa que vocês sobreviveram um ataque de entidades sobrenaturais. E se haviam dúvidas antes, sim... essas coisas existem e permeiam nossa sociedade."
 
 Ele pausa para mais uma tragada.
 
@@ -21,5 +22,3 @@ Ele aponta aos arquivos
 Ele apaga o cigarro no cinzeiro e se levanta com leve dificuldade devido aos anos, passando a se dirigir para a porta do galpão. Alguns passos depois, ele para e diz olhando para trás.
 
 "Se sobreviverem, é claro... Me sigam"
-
-![[footstep.mp3#controls]]
